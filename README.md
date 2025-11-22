@@ -1,5 +1,10 @@
 # Humanamente API
 
+## Integrantes
+- Samuel Heitor - RM 556731
+- Lucas Nicolini - RM 557613
+- Renan Olivi - RM 557680
+
 > **Transformando a IA em uma ferramenta de empatia e valorização do ser humano**
 
 O **Humanamente** é uma plataforma inovadora que utiliza Inteligência Artificial de forma inversa: em vez de substituir o ser humano, ela identifica e preserva as tarefas que devem permanecer essencialmente humanas em cada profissão.

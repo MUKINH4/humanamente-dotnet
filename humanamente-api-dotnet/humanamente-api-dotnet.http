@@ -1,0 +1,6 @@
+@humanamente_api_dotnet_HostAddress = http://localhost:5101
+
+GET {{humanamente_api_dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
